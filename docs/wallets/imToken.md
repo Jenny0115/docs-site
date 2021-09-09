@@ -7,6 +7,6 @@ Android Users — Get it on Google Play.
 iOS Users — Get it on App Store.
 
 ## Resource
-Website: https://token.im/
-Twitter: https://twitter.com/imTokenOfficial
-Medium: https://medium.com/imtoken
+# Website: https://token.im/
+# Twitter: https://twitter.com/imTokenOfficial
+# Medium: https://medium.com/imtoken
