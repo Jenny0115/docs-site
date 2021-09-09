@@ -8,5 +8,5 @@ iOS Users — Get it on App Store.
 
 ## Resource
 ### Website: https://token.im/
-# Twitter: https://twitter.com/imTokenOfficial
-# Medium: https://medium.com/imtoken
+### Twitter: https://twitter.com/imTokenOfficial
+### Medium: https://medium.com/imtoken
